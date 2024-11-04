@@ -1,7 +1,7 @@
 {
   "name": "webpage",
   "version": "0.1.0",
-  "homepage": "https://kishanjeeshah.github.io/E-Commerce",
+  "homepage": "https://kishanjeeshah.github.io/E-Commerce/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.8",
